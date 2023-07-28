@@ -18,5 +18,9 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "@unocss/postcss": "^0.53.6",
+    "unocss": "^0.53.6"
   }
 }
