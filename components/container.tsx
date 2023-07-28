@@ -7,7 +7,7 @@ type ContainerProps = {
 
 export default function Container({ children, className }: ContainerProps) {
   return (
-    <main className={clsx("max-w-7xl mx-auto px-4 pt-2", className)}>
+    <main className={clsx("max-w-7xl mx-auto px-4 pt-5", className)}>
       {children}
     </main>
   );
