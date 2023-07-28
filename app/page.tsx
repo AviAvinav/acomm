@@ -1,3 +1,5 @@
+import Container from "~/components/container";
+
 export default function Home() {
-  return <main></main>;
+  return <Container>Stuff</Container>;
 }
